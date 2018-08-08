@@ -1,0 +1,24 @@
+{
+  "name": "@templesofsyrinx/tiny",
+  "version": "1.0.0",
+  "description": "The tiniest npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TemplesOfSyrinx/tiny.git"
+  },
+  "keywords": [
+    "tiny",
+    "npm",
+    "TemplesOfSyrinx"
+  ],
+  "author": "John Chambers-Malewig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TemplesOfSyrinx/tiny/issues"
+  },
+  "homepage": "https://github.com/TemplesOfSyrinx/tiny#readme"
+}
